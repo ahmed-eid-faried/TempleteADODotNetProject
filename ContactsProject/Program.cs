@@ -4,12 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ContactsProject
+namespace ContactsConsolApp
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+
+
         }
     }
 }
